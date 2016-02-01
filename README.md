@@ -1,2 +1,0 @@
-# ifst3
-test
